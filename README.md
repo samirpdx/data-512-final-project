@@ -83,8 +83,7 @@ when making calls to ORES, a suggestion is to insert a try/except statement.
 
 ---
 
-Directory Structure
----------------------
+### Directory Structure
 ```
 data-512-final-project/
 
