@@ -64,8 +64,6 @@ breakdown on the data, please refer to the documentation below.
 
 [Endpoint](http://api.data.gov/ed/collegescorecard/v1/schools)
 
-This data is made available via CC0 1.0 license.
-
 #### License
 
 Data is released for use in the U.S. public domain by the United States government.  Copyright and related rights 
@@ -74,12 +72,13 @@ are waived through the [CC0 1.0 license](https://creativecommons.org/publicdomai
 
 #### Special Considerations and Limitations
 
-- The API call for ORES prediction scores is sped up with several rev_id input values as opposed to one at a time. 
-  This can be done by creating one long string of rev_id values with a delimiter in between.
-- There will be some rev_id values without any associated prediction scores.  To handle these and prevent errors 
-when making calls to ORES, a suggestion is to insert a try/except statement.
-- The entire call (done in 100 rev_id chunks) will take about roughly 3 minutes.  It is recommended to use the Python
-"pickle" package in order to avoid having to re-run the call.
+- There is considerable sparsity in the data set, as assessed in the data importation and cleaning steps seen later in 
+the
+['Final_Project_Report.ipynb'](https://github.com/samirpdx/data-512-final-project/blob/master/Final_Project_Report.ipynb) 
+notebook. As a result this renders many columns as unusable but the scope of the work did not involve any modeling. 
+Regardless, the data set should be able  exploratory and research analysis, data for interesting insights.
+- The data set spans out to the 1995-96 school year.  Again, due to bandwidth, we will only be exploring the 2015-16 
+academic year.
 
 ---
 
