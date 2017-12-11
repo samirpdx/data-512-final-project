@@ -1,7 +1,31 @@
-# Analysis of Student Retention in Undergradute Programs
+# Analysis of Undergraduate Retention Rates at 4-Year Universities
 
 ## A6 - Final Project 
 ##### DATA 512 - Human Centered Data Science
+
+
+### Abstract:
+
+College selection can often be an overwhelming and stressful process for high school graduates in the United States. 
+Every year, tens of millions of prospective students must weigh several selection factors such as tuition cost,
+proximity, program reputation, and future success indicators such as average salary upon graduation. The decision of
+selecting the right institution could result in greater chances of personal and financial success in the future.
+While popular annual college rankings, such as those published by the U.S. News and World Report, are thought as a
+useful guide for some students and parents, to others they provide only a one-size fits all solution for students.
+
+To better understand success for the average prospective college student, we leverage the College Scorecard data set 
+provided by the U.S. Department of Education.  We evaluate research questions in respect to the success indicator of
+student retention rate at 4-year undergraduate programs, seeing if they are affected by institution control (public or 
+private, for-profit or non-profit), locale (city, suburb, townships, rural areas) and financial aid distribution tools
+(loans and Pell Grants).
+
+Overall, we see in the research that institutions offering 4-year undergraduate degrees show retention rates are highest
+for students attending full-time, in either public or private non-profit institutions, and which located in more
+urbanized areas. We see when assessing financial aid that the results showed a negative correlation between an
+institution's overall retention rate and financial aid offerings (both loans and grants respectively).
+However, due to the complexity of financial aid distributions, their varying individual impact on a student and the
+effect on an institution that has a student base that is primarily financial dependent, there remains a lot more
+analysis required to further understand the dynamics that financial aid tools play in retention rate.
 
 ### Goal of the Project:
 
@@ -29,9 +53,9 @@ breakdown on the data, please refer to the documentation below.
 
 #### Links to Relevant API Documentation for College Scorecard
 
-[documentation](http://api.data.gov/ed/collegescorecard/)
+[Documentation](http://api.data.gov/ed/collegescorecard/)
 
-[endpoint](http://api.data.gov/ed/collegescorecard/v1/schools)
+[Endpoint](http://api.data.gov/ed/collegescorecard/v1/schools)
 
 This data is made available via CC0 1.0 license.
 
