@@ -86,9 +86,6 @@ academic year.
 ### Directory Structure
 ```
 data-512-final-project/
-
-  |- data/
-     |- MERGED2015_16_PP.csv
   |- sample data/
      |- CollegeScorecardDataDictionary.xlsx
      |- MERGED2015_16_PP.csv
