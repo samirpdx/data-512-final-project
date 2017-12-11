@@ -38,8 +38,9 @@ student-centered circumstances.
 
 ### Data
 
-The College Scorecard data set, collected and made available by the U.S. Department of Education, contains annual statistics
-on all accredited institutions in the country offering undergraduate degrees.  The data used for analysis in this project is from the most  recent 2015-2016 school year.
+The [College Scorecard data set](https://catalog.data.gov/dataset/college-scorecard), collected and made available by 
+the U.S. Department of Education, contains annual statisticson all accredited institutions in the country offering 
+undergraduate degrees.  The data used for analysis in this project is from the most  recent 2015-2016 school year.
 
 The objective of the College Scorecard data set from the U.S. Department of Education is stated to "make it easier for
 students to search for a college that is a good fit for them... so they can make more informed decisions about which 
