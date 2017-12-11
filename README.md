@@ -23,9 +23,6 @@ Overall, we see in the research that institutions offering 4-year undergraduate 
 for students attending full-time, in either public or private non-profit institutions, and which located in more
 urbanized areas. We see when assessing financial aid that the results showed a negative correlation between an
 institution's overall retention rate and financial aid offerings (both loans and grants respectively).
-However, due to the complexity of financial aid distributions, their varying individual impact on a student and the
-effect on an institution that has a student base that is primarily financial dependent, there remains a lot more
-analysis required to further understand the dynamics that financial aid tools play in retention rate.
 
 ---
 
