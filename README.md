@@ -28,8 +28,8 @@ institution's overall retention rate and financial aid offerings (both loans and
 
 ### Goal of the Project:
 
-Note:  There are updates made to the research project scope that differ from the original proposal 
-(Final_Project_Plan.ipynb) that also can be found in the repository.
+**Note**:  There are updates made to the research project scope that differ from the original proposal 
+(Final_Project_Plan.ipynb).
 
 The goal of this project is to perform an analysis that help further leverage the College Scorecard data to evaluate 
 different metrics (such as retention rate) that can maximize the common student's success when choosing an institution 
